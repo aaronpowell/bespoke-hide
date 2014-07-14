@@ -1,0 +1,11 @@
+{
+  "name": "bespoke-hide",
+  "version": "0.0.0",
+  "main": "./dist/bespoke-hide.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0-beta"
+  }
+}
