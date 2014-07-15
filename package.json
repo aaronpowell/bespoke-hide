@@ -1,6 +1,6 @@
 {
   "name": "bespoke-hide",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hide/Unhide slides from the presentation. Stores your settings in localStorage so it's persisted across reloads",
   "homepage": "https://github.com/aaronpowell/bespoke-hide",
   "bugs": "https://github.com/aaronpowell/bespoke-hide/issues",

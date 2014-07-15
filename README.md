@@ -2,7 +2,9 @@
 
 # bespoke-hide
 
-Hide/Unhide slides from the presentation. Stores your settings in localStorage so it's persisted across reloads
+Hide/Show slides from the presentation. Stores your settings in localStorage so it's persisted across reloads.
+
+Use `h` to hide the current slide and `u` to show a list of all slides that are hidden (then click the one(s) you want to show).
 
 ## Download
 
